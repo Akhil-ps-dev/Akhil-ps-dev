@@ -14,9 +14,9 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m First Year B-Tech Student.
+- :telescope: I’m a First Year B-Tech student in Toc H Institute of Science and Technology.  I love Programming, speaking and travelling
 
-- :seedling: Exploring New Coding
+- :seedling:
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Instagram](https://img.shields.io/badge/-Akhil-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
