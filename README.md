@@ -13,3 +13,10 @@
 ---
 
 ### :woman_technologist: About Me :
+
+- :telescope: I’m First Year B-Tech Student.
+
+- :seedling: Exploring New Coding
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
