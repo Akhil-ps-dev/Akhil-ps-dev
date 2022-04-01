@@ -3,6 +3,11 @@
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <h1>
+
+  <img src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="30px"/>
+</h1>
+
 </h1>
 </div>
 
@@ -15,7 +20,3 @@
 ### :woman_technologist: About Me :
 
 - :telescope: I’m a First Year B-Tech student in Toc H Institute of Science and Technology.  I love programming, speaking and travelling.
-  <h1>
-
-  <img src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="30px"/>
-</h1>
