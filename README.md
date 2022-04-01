@@ -15,9 +15,7 @@
 ### :woman_technologist: About Me :
 
 - :telescope: I’m a First Year B-Tech student in Toc H Institute of Science and Technology.  I love programming, speaking and travelling.
-
-"https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR
   <h1>
-  hey there
+
   <img src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="30px"/>
 </h1>
