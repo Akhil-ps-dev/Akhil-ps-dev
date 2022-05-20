@@ -17,4 +17,5 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m a First Year B-Tech student in Toc H Institute of Science and Technology.  I love programming, speaking and travelling.
+- :telescope: I’m a First Year B-Tech student in Toc H Institute of Science and Technology. 
+-  I love programming, speaking and travelling.
