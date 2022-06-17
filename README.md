@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **psakhil211@gmail.com**
 
-- ⚡ Fun fact **still I can't believe it's me.**
+- ⚡ Fun fact  **Still I can't believe it's me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
