@@ -1,5 +1,5 @@
 
-![MasterHead]([https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))
+![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
 <h1 align="center">Hi 👋, I'm Akhil PS</h1>
 <img align="right" width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"
