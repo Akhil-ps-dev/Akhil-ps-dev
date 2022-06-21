@@ -4,7 +4,7 @@
 <img align="right" width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"
     alt="Coding">
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-ps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-ps-dev" /> </p>
 
