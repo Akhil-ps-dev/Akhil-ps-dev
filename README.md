@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter, React and Laravel**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **psakhil211@gmail.com**
 
