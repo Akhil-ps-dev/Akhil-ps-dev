@@ -1,9 +1,9 @@
 
 ![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
 <h1 align="center">Hi 👋, I'm Akhil PS</h1>
-<img align="right" width="400"
+<!-- <img align="right" width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"
-    alt="Coding">
+    alt="Coding"> -->
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
